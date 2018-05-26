@@ -1,0 +1,2 @@
+1、首先运行spiders_bd_pic-v1\spiders_bd_pic\libcreate_sql.py，创建数据库（sqlite3）
+2、运行spiders_bd_pic\centre_co\bd_spider_pic.py 即可
